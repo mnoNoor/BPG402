@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VICTUS\\OneDrive\\Desktop\\code\\C#\\BPG 402\\app\\app.csproj": {}
+    "C:\\mnoNoor\\BPG 402\\app\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VICTUS\\OneDrive\\Desktop\\code\\C#\\BPG 402\\app\\app.csproj": {
+    "C:\\mnoNoor\\BPG 402\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\code\\C#\\BPG 402\\app\\app.csproj",
+        "projectUniqueName": "C:\\mnoNoor\\BPG 402\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\code\\C#\\BPG 402\\app\\app.csproj",
+        "projectPath": "C:\\mnoNoor\\BPG 402\\app\\app.csproj",
         "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\code\\C#\\BPG 402\\app\\obj\\",
+        "outputPath": "C:\\mnoNoor\\BPG 402\\app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
